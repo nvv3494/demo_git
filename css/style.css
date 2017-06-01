@@ -1,0 +1,58 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	}
+.clr{
+	clear:both;
+	}
+body{
+	background:url(../image/Sequence-01.Still019.jpg) center top no-repeat;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	}
+	#wrapper{
+		width:1000px;
+		margin:0 auto;
+		}
+		#top{
+			width:1000px;
+			height:80px;
+			background-color:#9F3;
+			}
+			#logo a img{
+				width:150px;
+				height:80px;
+				}
+		#header{
+			width:1000px;
+			background-color:#F30;
+			height:40px;
+			}
+		#slide{
+			width:1000px;
+			height:150px;
+			background-color:#9F0;
+			}
+		#content{
+			width:1000px;
+			background-color:#90C;
+			}
+			#content #content_left{
+				background-color:#F09;
+				width:700px;
+				float:left;
+				margin-left:3px;
+				}
+			#content #content_right{
+				float:right;
+				width:300px;
+				float:right;
+				}	
+		#footer{
+			width:1000px;
+			height:100px;
+			background-color:#FF0;
+			}
+
+
